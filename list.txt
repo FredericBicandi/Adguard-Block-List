@@ -43,6 +43,7 @@
 ||symbaloo.com^
 ||fancade.com^
 ||turbowarp.org^
+||geometrydash-meltdown.com^
 ||kizi.cm^
 ||01-casino.com^
 ||01-chase.com^
