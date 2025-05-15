@@ -36,6 +36,7 @@
 ||*.fun^
 ||*.lol^
 ||*.gg^
+||superhardalgebraproblems.com^
 ||clickspeedtest.com^
 ||cpstest.org^
 ||uwufufu.com^
