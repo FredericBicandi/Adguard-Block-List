@@ -1,2 +1,2 @@
 codespark.com^
-app.flutterflow.io^
+||app.flutterflow.io^
