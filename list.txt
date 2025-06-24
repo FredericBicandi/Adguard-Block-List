@@ -34,6 +34,7 @@
 ||copilot.microsoft.com^
 ||blackbox.ai^
 ||perplexity.ai^
+||openai.com^
 ||fin.ai^
 ||*.room^
 ||*.game^
