@@ -29,6 +29,9 @@
 ||ai.google^
 ||poe.com^
 ||deepseek.com^
+||lindy.ai^
+||runwayml.com^
+
 
 ! Sites that have .ai domain extension
 duckduckgo.com,bing.com##a[href*="forkful.ai"]:upward(li):remove()
