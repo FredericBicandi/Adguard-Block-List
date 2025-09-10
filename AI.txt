@@ -20,6 +20,16 @@
 ! // DDG & Bing version
 ! //// Sites hosting nothing but AI generated content/solely focused on AI/has an abundance of AI generated imagery... 100% confirmed
 
+
+||aistudio.google.com^
+||bolt.new^
+||mgx.dev^
+||chat.z.ai^
+||deepai.org^
+||ai.google^
+||poe.com^
+||deepseek.com^
+
 ! Sites that have .ai domain extension
 duckduckgo.com,bing.com##a[href*="forkful.ai"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="otter.ai"]:upward(li):remove()
