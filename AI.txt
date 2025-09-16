@@ -20,7 +20,14 @@
 ! // DDG & Bing version
 ! //// Sites hosting nothing but AI generated content/solely focused on AI/has an abundance of AI generated imagery... 100% confirmed
 
-
+||gemini.google.com^
+||claude.ai^
+||chatgpt.com^
+||copilot.microsoft.com^
+||blackbox.ai^
+||perplexity.ai^
+||openai.com^
+||fin.ai^
 ||aistudio.google.com^
 ||bolt.new^
 ||mgx.dev^
