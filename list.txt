@@ -3,7 +3,7 @@
 ! Based on: games list from https://dsi.ut-capitole.fr/blacklists/index_en.php
 ! Updates: every few weeks
 ! Last updated: Oct 16 2023
-! Rules: 8212
+! Rules Count: 8212
 !
 ! maybe block? /3d.*/ /flash.*/ /2d.*/ /arcade.*/ /cs.*/ /counter.*/ /strike.*/ /ball.*/ /bubble.*/ /pirate.*/ /fight.*/ /lol.*/
 /puzzle.*/
