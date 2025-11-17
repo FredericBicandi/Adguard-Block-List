@@ -32,6 +32,8 @@
 ||emulatoronline.xyz^
 ||chromewebstore.google.com^
 ||scratch.mit.edu^
+||paperio.site^
+||trex-runner.com^
 ||*.room^
 ||*.game^
 ||*.games^
