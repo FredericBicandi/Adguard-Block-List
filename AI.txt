@@ -5,6 +5,7 @@
 
 ||gemini.google.com^
 ||claude.ai^
+||notebooklm.google^
 ||chatgpt.com^
 ||copilot.microsoft.com^
 ||blackbox.ai^
