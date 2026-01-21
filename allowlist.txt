@@ -3,4 +3,4 @@
 ||maia.rf.gd^
 ||storyjumper.com^
 ||scratch.mit.edu^
-||amazon.com^
+||amazon.com/*^
