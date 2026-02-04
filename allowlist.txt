@@ -3,4 +3,8 @@
 ||maia.rf.gd^
 ||storyjumper.com^
 ||scratch.mit.edu^
-||amazon.com/*^
+@@||amazon.com^
+@@||www.amazon.com^
+@@||images-na.ssl-images-amazon.com^
+@@||m.media-amazon.com^
+@@||aax.amazon-adsystem.com^
